@@ -1,4 +1,4 @@
-# Experiment 2: Function Generator Driven Transmitter
+# Experiment 2: Arbitrary Waveform Gnerator Driven Transmitter
 
 ## Introduction
 
