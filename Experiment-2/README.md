@@ -12,6 +12,10 @@ Below is the schematic of the circuit we implement for this experiment.
 ![Tx-Rx Schematic](docs/AWG_TxRx_Schematic.png)
 
 
+And below are photos of the implemented circuit. The transmitter and receiver circuits are on the right and left side respectively.
+
+<img src="docs/AWG_TopView.jpg" alt="drawing" width="200"/>
+
 ## Results
 
 TODO
