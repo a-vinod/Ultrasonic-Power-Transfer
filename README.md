@@ -8,8 +8,8 @@ This repository consists of the series of experiments I'm conducting, each build
 
 # Experiments
 
-[1] Transmitter Driven by Ultrasonic Sensor
+[[1](Experiment-1)] Transmitter Driven by Ultrasonic Sensor
 
-[2] Transmitter Driven by Function Generator
+[[2](Experiment-2)] Transmitter Driven by Picoscope Arbitrary Waveform Generator
 
-[3] Transmitter Driven by Function Generator & Amplifier
+[3] Transmitter Driven by Picoscope Arbitrary Waveform Generator & Amplified with 
