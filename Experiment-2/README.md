@@ -36,6 +36,8 @@ AWG Driving Voltage (mV)   |  Maximum Rx Voltage (mV)  |  Minimum Rx Voltage (mV
 
 And below is a scatter plot of the summarized measurements.
 
+![](measurements/index.png)
+
 ## Discussion
 
 TODO
