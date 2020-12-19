@@ -18,9 +18,28 @@ Top View                   |  Side View
 :-------------------------:|:-------------------------:
 ![](docs/AWG_TopView.jpg)  |  ![](docs/AWG_SideView.jpg)
 
+The transmitter circuit is driven by voltage from the AWG and the scope's probe is measuring the voltage across the terminals of the receiver. We'll drive the AWG with a range of voltages from 0V to 2V and measure the AC voltage induced at the receiver terminals
+
 ## Results
 
-TODO
+Below is a table summarizing our measurements. The raw data can be observed in the `measurements` folder both as psdata and CSVs.
+
+AWG Driving Voltage (mV)   |  Maximum Rx Voltage (mV)  |  Minimum Rx Voltage (mV) |
+:-------------------------:|:-------------------------:|:-------------------------:
+500 	                     |  151.8052 	               |  -153.4226
+:-------------------------:|:-------------------------:|:-------------------------:
+600 	                     |  180.0348 	               |  -181.6523
+:-------------------------:|:-------------------------:|:-------------------------:
+700 	                     |  212.6987 	               |  -215.1860
+:-------------------------:|:-------------------------:|:-------------------------:
+800 	                     |  239.1583 	               |  -241.6608
+:-------------------------:|:-------------------------:|:-------------------------:
+900 	                     |  270.0430 	               |  -276.9555
+:-------------------------:|:-------------------------:|:-------------------------:
+1000 	                     |  300.9277 	               |  -303.4150
+:-------------------------:|:-------------------------:|:-------------------------:
+2000 	                     |  594.5005 	               |  -595.6298
+
 
 ## Discussion
 
