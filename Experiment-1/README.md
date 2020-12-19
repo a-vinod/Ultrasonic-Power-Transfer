@@ -15,8 +15,17 @@ which are then transformed to electrical pulses across its terminals.
 
 The ultrasonic sensor's VCC, TRIG, ECHO, and GND pins are wired to the Arduino's DC 5V, two digital pins, and ground respectively. The following schematic is from an article on [Last Minute Engineers](https://lastminuteengineers.com/arduino-sr04-ultrasonic-sensor-tutorial/).
 
+![HCSR04 Wiring](docs/Arduino-Wiring-Fritzing-Normal-Mode-Connections-with-HC-SR04-Ultrasonic-Sensor.png)
+
 ## Results
 
+TODO
+
+- not enough voltage for the LED to light up
+
+- 3kHz frequency measured across terminals of receiver
 
 
 ## Discussion
+
+TODO
