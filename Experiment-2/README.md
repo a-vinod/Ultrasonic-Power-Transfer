@@ -1,4 +1,4 @@
-# Experiment 2: Function Generator Driven Transmitter
+# Experiment 2: Arbitrary Waveform Gnerator Driven Transmitter
 
 ## Introduction
 
@@ -9,7 +9,7 @@ From Experiment 1, we concluded that the ultrasonic waves emitted by the ultraso
 
 Below is the schematic of the circuit we implement for this experiment.
 
-![Tx-Rx Schematic](docs/AWG_TxRx_Schematic.png)
+![Tx-Rx Schematic](docs/AWG_Schematic.png)
 
 
 And below are photos of the implemented circuit. The transmitter and receiver circuits are on the right and left side respectively.
