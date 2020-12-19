@@ -9,7 +9,9 @@ From Experiment 1, we concluded that the ultrasonic waves emitted by the ultraso
 
 Below is the schematic of the circuit we implement for this experiment.
 
-![Tx-Rx Schematic](AWG_TxRx_Schematic.png)
+![Tx-Rx Schematic](docs/AWG_TxRx_Schematic.png)
+
+
 ## Results
 
 TODO
