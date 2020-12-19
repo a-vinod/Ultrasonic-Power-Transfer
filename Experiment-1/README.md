@@ -13,7 +13,7 @@ The advantage of using the off-the-shelf sensor to drive the transmitter is that
 the sensor tells the transmitter to emit 8 consecutive 40kHz (ultrasonic) pulses. These pulses are caught by the receiver placed in the transmitter's line of sight, 
 which are then transformed to electrical pulses across its terminals.
 
-The ultrasonic sensor is 
+The ultrasonic sensor's VCC, TRIG, ECHO, and GND pins are wired to the Arduino's DC 5V, two digital pins, and ground respectively. The following schematic is from an article on [Last Minute Engineers](https://lastminuteengineers.com/arduino-sr04-ultrasonic-sensor-tutorial/).
 
 ## Results
 
