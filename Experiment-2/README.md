@@ -14,7 +14,8 @@ Below is the schematic of the circuit we implement for this experiment.
 
 And below are photos of the implemented circuit. The transmitter and receiver circuits are on the right and left side respectively.
 
-<img src="docs/AWG_TopView.jpg" alt="drawing" width="200"/>
+<img src="docs/AWG_TopView.jpg" alt="drawing" width="837"/>
+<img src="docs/AWG_SideView.jpg " alt="drawing" width="837"/>
 
 ## Results
 
