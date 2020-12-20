@@ -1,8 +1,8 @@
-# Experiment 2: Arbitrary Waveform Gnerator Driven Transmitter
+# Experiment 2: Arbitrary Waveform Generator Driven Transmitter
 
 ## Introduction
 
-From Experiment 1, we concluded that the ultrasonic waves emitted by the ultrasonic sensor lost too much energy while being transmitted in the air to produce a large enough voltage across the receiver terminals to power an LED. For more granular control and the ability to increase the amplitude of the 40kHz electric pulses into the transmitter, we're going to use a Picoscope's arbitrary waveform generator. The Picoscope will also allow us to measure the signal on the receiver terminals accurately.
+From Experiment 1, we concluded that the ultrasonic waves emitted by the ultrasonic sensor lost too much energy while being transmitted in the air to produce a large enough voltage across the receiver terminals to power an LED. For more granular control and the ability to increase the amplitude of the 40kHz electric pulses into the transmitter, we're going to use a Picoscope's arbitrary waveform generator (AWG). The Picoscope will also allow us to measure the signal on the receiver terminals accurately.
 
 
 ## Methods
