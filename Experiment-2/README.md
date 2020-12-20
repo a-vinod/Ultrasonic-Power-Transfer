@@ -26,21 +26,18 @@ For each amplitude driven by the AWG, we recorded the measurement of maxmium and
 
 ![](measurements/Picoscope_example/Picoscope_example_01.jpg )
 
-Below is a table summarizing our measurements. The raw data can be observed in the `measurements` folder both as psdata and CSVs.
+For each AWG voltage, we found the difference between the minimum and maximum Rx voltage and divided it by two to find the amplitude of the Rx voltage.
 
-AWG Driving Voltage (mV)   |  Maximum Rx Voltage (mV)  |  Minimum Rx Voltage (mV) |
-:-------------------------:|:-------------------------:|:-------------------------:
-500 	                     |  151.8052 	               |  -153.4226
-600 	                     |  180.0348 	               |  -181.6523
-700 	                     |  212.6987 	               |  -215.1860
-800 	                     |  239.1583 	               |  -241.6608
-900 	                     |  270.0430 	               |  -276.9555
-1000 	                     |  300.9277 	               |  -303.4150
-2000 	                     |  594.5005 	               |  -595.6298
+Below is a table summarizing our measurements and calculations. The calculations are in the Jupyter Notebook in the `scripts` file, and the raw data can be observed in the `measurements` folder both as psdata and CSVs.
+
+Rx-Tx				| Data Table
+:------------------------------:|:------------------------------:
+5mm				| ![](docs/data_5mm.png)
+10mm				| ![](docs/data_10mm.png)
 
 And below is a scatter plot of the summarized measurements.
 
-![](measurements/index.png)
+![](docs/Rx_AWG_distance_plot.png)
 
 ## Discussion
 
