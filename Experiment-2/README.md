@@ -28,14 +28,14 @@ For each amplitude driven by the AWG, we recorded the measurement of maxmium and
 
 For each AWG voltage, we found the difference between the minimum and maximum Rx voltage and divided it by two to find the amplitude of the Rx voltage.
 
-Below is a table summarizing our measurements and calculations. The calculations are in the Jupyter Notebook in the `scripts` file, and the raw data can be observed in the `measurements` folder both as psdata and CSVs.
+Below are the data tables summarizing our measurements and calculations. The calculations are in a Jupyter Notebook in the `scripts` folder, and the raw data can be found in the `measurements` folder.
 
 Rx-Tx Distance				          | Data Table
 :------------------------------:|:------------------------------:
 5mm				                      | ![](docs/data_5mm.png)
-10mm				                  | ![](docs/data_10mm.png)
+10mm				                    | ![](docs/data_10mm.png)
 
-And below is a scatter plot of the summarized measurements.
+And below is a scatter plot of the summarized measurements to visualize the difference in behavior among the Rx-Tx distances.
 
 ![](docs/Rx_AWG_distance_plot.png)
 
