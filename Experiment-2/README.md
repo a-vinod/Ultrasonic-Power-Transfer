@@ -35,7 +35,7 @@ Rx-Tx Distance				          | Data Table
 5mm				                      | ![](docs/data_5mm.png)
 10mm				                    | ![](docs/data_10mm.png)
 
-And below is a scatter plot of the summarized measurements to visualize the difference in behavior among the Rx-Tx distances.
+And below is a scatter plot of the summarized measurements to visualize the difference in behavior between different Rx-Tx distances.
 
 ![](docs/Rx_AWG_distance_plot.png)
 
