@@ -30,10 +30,10 @@ For each AWG voltage, we found the difference between the minimum and maximum Rx
 
 Below is a table summarizing our measurements and calculations. The calculations are in the Jupyter Notebook in the `scripts` file, and the raw data can be observed in the `measurements` folder both as psdata and CSVs.
 
-Rx-Tx				| Data Table
+Rx-Tx Distance				          | Data Table
 :------------------------------:|:------------------------------:
-5mm				| ![](docs/data_5mm.png)
-10mm				| ![](docs/data_10mm.png)
+5mm				                      | ![](docs/data_5mm.png)
+10mm				                  | ![](docs/data_10mm.png)
 
 And below is a scatter plot of the summarized measurements.
 
