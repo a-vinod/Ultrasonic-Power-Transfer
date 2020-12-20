@@ -18,11 +18,11 @@ Top View                   |  Side View
 :-------------------------:|:-------------------------:
 ![](docs/AWG_TopView.jpg)  |  ![](docs/AWG_SideView.jpg)
 
-The transmitter circuit is driven by voltage from the AWG and the scope's probe is measuring the voltage across the terminals of the receiver. We'll drive the AWG with a range of voltages from 0V to 2V and measure the AC voltage induced at the receiver terminals
+The transmitter circuit is driven by the voltage from the AWG and the scope's probe is measuring the voltage across the terminals of the receiver. We'll drive the AWG with a range of voltages from 0V to 2V and measure the AC voltage induced at the receiver terminals
 
 ## Results
 
-For each amplitude driven by the AWG, we recorded the measurement of maxmium and minimum amplitude of the Rx voltage from a window of the Picoscope software once the waveform stabilized. For example, the waveform observed at the Rx with the AWG driving 2V is shown below.
+For each amplitude driven by the AWG, we recorded the measurement of maxmium and minimum amplitude of the Rx voltage from a window of the Picoscope software once the waveform stabilized. Below is a screenshot of an example waveform measured by the Picoscope.
 
 ![](docs/1V_Rx_waveform.jpg)
 
