@@ -24,7 +24,7 @@ The transmitter circuit is driven by voltage from the AWG and the scope's probe 
 
 For each amplitude driven by the AWG, we recorded the measurement of maxmium and minimum amplitude of the Rx voltage from a window of the Picoscope software once the waveform stabilized. For example, the waveform observed at the Rx with the AWG driving 2V is shown below.
 
-![](measurements/Picoscope_example/Picoscope_example_01.jpg )
+![](measurements/Picoscope_example/1V_Rx_waveform.jpg)
 
 For each AWG voltage, we found the difference between the minimum and maximum Rx voltage and divided it by two to find the amplitude of the Rx voltage.
 
