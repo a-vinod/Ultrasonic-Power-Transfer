@@ -26,7 +26,7 @@ For each amplitude driven by the AWG, we recorded the measurement of maxmium and
 
 ![](measurements/Picoscope_example/Picoscope_example_01.jpg )
 
-For each AWG voltage, we found the difference between the minimum and maximum Rx voltage and divided it by two to find the amplitude of the Rx voltage.
+For each AWG voltage, we found the absolute value of the difference between the maximum and minimum of each of the eight cycles divided by two. And then we average them to find the amplitude of the Rx voltage.
 
 Below is a table summarizing our measurements and calculations. The calculations are in the Jupyter Notebook in the `scripts` file, and the raw data can be observed in the `measurements` folder both as psdata and CSVs.
 
