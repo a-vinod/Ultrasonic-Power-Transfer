@@ -4,7 +4,7 @@
 
 This experiment is an addendum to Experiment 2 where we found that the Rx voltage for when the Tx-Rx distance is 10mm is greater than when it's 5mm. Strangely, more power was transfered at a greater distance. We investigate this behavior in this experiment. 
 
-![](docs/tx-rx.gif) | ![](docs/waveform.gif)
+| ![](docs/tx-rx.gif) | ![](docs/waveform.gif) |
 
 ## Methods
 
