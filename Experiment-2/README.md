@@ -32,8 +32,10 @@ Below are the data tables summarizing our measurements and calculations. The cal
 
 Rx-Tx Distance				          | Data Table
 :------------------------------:|:------------------------------:
-5mm				                      | ![](docs/data_5mm.png)
-10mm				                    | ![](docs/data_10mm.png)
+5mm				| ![](docs/data_5mm.png)
+10mm				| ![](docs/data_10mm.png)
+15mm                            | ![](docs/data_15mm.png)
+20mm                            | ![](docs/data_20mm.png)
 
 And below is a scatter plot of the summarized measurements to visualize the difference in behavior between different Rx-Tx distances.
 
