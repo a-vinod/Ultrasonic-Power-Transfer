@@ -12,9 +12,9 @@ This experiment's setup is identical to that of Experiment 2. We found the dista
 
 Below is the Tx-Rx distance and Rx voltage for each data point, along with a scatter plot visualizing the data.
 
-![](docs/data_table.jpg)
+![](docs/data_table.png)
 
-![](docs/data_plot.jpg)
+![](docs/data_plot.png)
 
 ## Discussion
 
