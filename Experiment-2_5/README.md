@@ -13,7 +13,9 @@ This experiment's setup is identical to that of Experiment 2. We found the dista
 
 ## Results
 
-Below is the Tx-Rx distance and Rx voltage for each data point, along with a scatter plot visualizing the data.
+When pulling the transmitter and receiver apart, we find that the voltage across the receiver, and thus the power transferred, oscillates between local maximas and minimas. See the animation in the Introduction.
+
+Below is the Tx-Rx distance and Rx voltage for each data point of a maxima or minima, along with a scatter plot visualizing the data.
 
 ![](docs/data_table.png)
 
