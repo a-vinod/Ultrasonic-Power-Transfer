@@ -17,15 +17,14 @@ The ultrasonic sensor's VCC, TRIG, ECHO, and GND pins are wired to the Arduino's
 
 ![HCSR04 Wiring](docs/Arduino-Wiring-Fritzing-Normal-Mode-Connections-with-HC-SR04-Ultrasonic-Sensor.png)
 
+In Arduino code, we write a program to send 40 kHz pulses consecutively via the transmitter by writing a high to the TRIG pin. The receiver is placed in the transmitter's line of sight, and we measure attempt to measure the signal on its terminals.
+
 ## Results
 
-TODO
-
-- not enough voltage for the LED to light up
-
-- 3kHz frequency measured across terminals of receiver
-
+We found that the amplitude of the waves from the transmitter was far too small in magnitude to get a detectable AC voltage at the receiver. However, the digital multimeter picked up a frequency of approximately 3kHz at the terminals. Since the signals were so small, the frequency was unstable and difficult to measure. These results held for very small distances between the transmitter and receiver (< 5 mm).
 
 ## Discussion
 
-TODO
+Although the off-the-shelf ultrasonic sensor can be adapted to be just a transmitter, it doesn't serve its purpose in this experiment since its amplitude is not large enough to give us a useful signal at the receiver's end. This makes sense because the purpose of the ultrasonic sensor's transmitter is to send a pulse large enough to be detected by its receiver after it bounces back from a surface. However, our objective is to transfer power, so the signal produced by the transmitter on the sensor isn't practical for our purposes.
+
+In this experiment, we found the plug-and-play capabilities of the ultrasonic sensor to be a double-edged sword. It's simple to wire up to the Arduino and sending a set of 8 consecutive 40kHz pulses through the transmitter only requires a trigger pulse at one of its pins. However, the hardware abstraction layer of the sensor prevents us from, for example, driving the ultrasonic pulses with a larger amplitude.
