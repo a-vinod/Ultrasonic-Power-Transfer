@@ -1,4 +1,4 @@
-# Experiment 2.5: Arbitrary Waveform Generator Driven Transmitter - Addendum
+# Experiment 2_5: Transmitter Driven by Picoscope Arbitrary Waveform Generator - Exploring the transducers' oscillatory behavior to find optimal Tx-Rx separation distances for power transfer
 
 ## Introduction
 
