@@ -12,4 +12,6 @@ This repository consists of the series of experiments I'm conducting, each build
 
 [[2](Experiment-2)] Transmitter Driven by Picoscope Arbitrary Waveform Generator
 
-[3] Transmitter Driven by Picoscope Arbitrary Waveform Generator & Amplified with 
+[[2_5](Experiment-2_5)] Transmitter Driven by Picoscope Arbitrary Waveform Generator - Exploring the transducers' oscillatory behavior to find optimal Tx-Rx separation distances for power transfer 
+
+[3] Transmitter Driven by amplified Picoscope Arbitrary Waveform Generator
