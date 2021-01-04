@@ -43,4 +43,4 @@ And below is a scatter plot of the summarized measurements to visualize the diff
 
 ## Discussion
 
-TODO
+From the scatter plot and data tables, we observe a linear trend between the AWG driving voltage and Rx voltage. We can quantitatively verify this by performing linear regression and checking if the R^2 value is sufficiently close to 1 (TODO). Hence, an ultrasonic transmitter and receiver can be modeled by a resistance and wire. The voltage drop across the resistor in this model is the voltage difference between the transmitter terminals and receiver terminals. If this trend holds for larger distances (TODO), then a wire and resistance can be ideally replaced by an ultrasonic transmitter and receiver for AC circuits. And using a rectifier, we can rectify the signal on the receiver's end to produce a DC signal.
