@@ -1,4 +1,4 @@
-# Experiment 2_5: Transmitter Driven by Picoscope Arbitrary Waveform Generator - Exploring the transducers' oscillatory behavior to find optimal Tx-Rx separation distances for power transfer
+# Experiment 2_5: Optimizing Tx-Rx Separation Distances for Power Transfer
 
 ## Introduction
 
@@ -23,4 +23,6 @@ Below is the Tx-Rx distance and Rx voltage for each data point of a maxima or mi
 
 ## Discussion
 
-TODO
+Initially, we assumed that minimizing the distance between the transducers would maximize the power transferred. However, we found that there are local maxima and minima values of Rx voltage in a range of Tx-Rx separation distances. Hence, to optimize the power transferred, we might place the receiver and transmitter further apart than required. This is counterinuitive at first, but there are some possible causes of this behavior.
+
+One reason is if some of the ultrasonic waves bounced off the rim of the receiver, bounced off the rim of the transmitter, and then constructively interfered with the original waves to produce a larger voltage. This would explain the existence of both the maxima and minima since these waves would alternate between acting constructively and destructively.
